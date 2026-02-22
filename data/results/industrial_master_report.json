@@ -1,0 +1,6 @@
+{
+    "C-301": "```json\n{\n  'prediction_class_id': 0,\n  'prediction_label': 'Critical Surge',\n  'kinetic_audit': {\n    'initial_value': 125.29,\n    'final_value': 159.55,\n    'slope_sign': 'positive'\n  },\n  'is_hazardous': true\n}\n```",
+    "L-102": "```json\n{\n  'prediction_class_id': 0,\n  'prediction_label': 'Critical Surge',\n  'kinetic_audit': {\n    'initial_value': 10.98,\n    'final_value': 286.49,\n    'slope_sign': 'positive'\n  },\n  'is_hazardous': true\n}\n```",
+    "T-505": "```json\n{\n  'prediction_class_id': 3,\n  'prediction_label': 'Thermal Runaway',\n  'kinetic_audit': {\n    'initial_value': 65.3,\n    'final_value': 89.83,\n    'slope_sign': 'positive'\n  },\n  'is_hazardous': true\n}\n```",
+    "S-909": "```json\n{\n  'prediction_class_id': 0,\n  'prediction_label': 'Critical Surge',\n  'kinetic_audit': {\n    'initial_value': 99.68,\n    'final_value': 99.70,\n    'slope_sign': 'positive'\n  },\n  'is_hazardous': true\n}\n```"
+}

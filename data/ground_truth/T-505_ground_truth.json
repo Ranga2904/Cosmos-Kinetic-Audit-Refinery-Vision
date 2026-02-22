@@ -1,0 +1,260 @@
+{
+  "node": "T-505",
+  "unit": "C",
+  "total_frames": 50,
+  "start_value": 65.0,
+  "end_value": 89.85,
+  "actual_drift_rate_per_sec": 4.97,
+  "frame_data": [
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "value": 65.3
+    },
+    {
+      "frame": 1,
+      "timestamp": 0.1,
+      "value": 65.98
+    },
+    {
+      "frame": 2,
+      "timestamp": 0.2,
+      "value": 66.73
+    },
+    {
+      "frame": 3,
+      "timestamp": 0.30000000000000004,
+      "value": 67.52
+    },
+    {
+      "frame": 4,
+      "timestamp": 0.4,
+      "value": 67.88
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.5,
+      "value": 68.16
+    },
+    {
+      "frame": 6,
+      "timestamp": 0.6000000000000001,
+      "value": 68.53
+    },
+    {
+      "frame": 7,
+      "timestamp": 0.7000000000000001,
+      "value": 68.93
+    },
+    {
+      "frame": 8,
+      "timestamp": 0.8,
+      "value": 69.28
+    },
+    {
+      "frame": 9,
+      "timestamp": 0.9,
+      "value": 69.69
+    },
+    {
+      "frame": 10,
+      "timestamp": 1.0,
+      "value": 69.94
+    },
+    {
+      "frame": 11,
+      "timestamp": 1.1,
+      "value": 70.14
+    },
+    {
+      "frame": 12,
+      "timestamp": 1.2000000000000002,
+      "value": 70.71
+    },
+    {
+      "frame": 13,
+      "timestamp": 1.3,
+      "value": 71.47
+    },
+    {
+      "frame": 14,
+      "timestamp": 1.4000000000000001,
+      "value": 72.25
+    },
+    {
+      "frame": 15,
+      "timestamp": 1.5,
+      "value": 73.0
+    },
+    {
+      "frame": 16,
+      "timestamp": 1.6,
+      "value": 73.51
+    },
+    {
+      "frame": 17,
+      "timestamp": 1.7000000000000002,
+      "value": 74.02
+    },
+    {
+      "frame": 18,
+      "timestamp": 1.8,
+      "value": 74.54
+    },
+    {
+      "frame": 19,
+      "timestamp": 1.9000000000000001,
+      "value": 74.93
+    },
+    {
+      "frame": 20,
+      "timestamp": 2.0,
+      "value": 75.66
+    },
+    {
+      "frame": 21,
+      "timestamp": 2.1,
+      "value": 76.35
+    },
+    {
+      "frame": 22,
+      "timestamp": 2.2,
+      "value": 76.93
+    },
+    {
+      "frame": 23,
+      "timestamp": 2.3000000000000003,
+      "value": 77.2
+    },
+    {
+      "frame": 24,
+      "timestamp": 2.4000000000000004,
+      "value": 77.9
+    },
+    {
+      "frame": 25,
+      "timestamp": 2.5,
+      "value": 78.23
+    },
+    {
+      "frame": 26,
+      "timestamp": 2.6,
+      "value": 78.61
+    },
+    {
+      "frame": 27,
+      "timestamp": 2.7,
+      "value": 79.07
+    },
+    {
+      "frame": 28,
+      "timestamp": 2.8000000000000003,
+      "value": 79.3
+    },
+    {
+      "frame": 29,
+      "timestamp": 2.9000000000000004,
+      "value": 79.9
+    },
+    {
+      "frame": 30,
+      "timestamp": 3.0,
+      "value": 80.69
+    },
+    {
+      "frame": 31,
+      "timestamp": 3.1,
+      "value": 81.2
+    },
+    {
+      "frame": 32,
+      "timestamp": 3.2,
+      "value": 81.93
+    },
+    {
+      "frame": 33,
+      "timestamp": 3.3000000000000003,
+      "value": 82.72
+    },
+    {
+      "frame": 34,
+      "timestamp": 3.4000000000000004,
+      "value": 82.95
+    },
+    {
+      "frame": 35,
+      "timestamp": 3.5,
+      "value": 83.16
+    },
+    {
+      "frame": 36,
+      "timestamp": 3.6,
+      "value": 83.63
+    },
+    {
+      "frame": 37,
+      "timestamp": 3.7,
+      "value": 84.26
+    },
+    {
+      "frame": 38,
+      "timestamp": 3.8000000000000003,
+      "value": 84.52
+    },
+    {
+      "frame": 39,
+      "timestamp": 3.9000000000000004,
+      "value": 85.02
+    },
+    {
+      "frame": 40,
+      "timestamp": 4.0,
+      "value": 85.54
+    },
+    {
+      "frame": 41,
+      "timestamp": 4.1000000000000005,
+      "value": 85.97
+    },
+    {
+      "frame": 42,
+      "timestamp": 4.2,
+      "value": 86.27
+    },
+    {
+      "frame": 43,
+      "timestamp": 4.3,
+      "value": 86.93
+    },
+    {
+      "frame": 44,
+      "timestamp": 4.4,
+      "value": 87.63
+    },
+    {
+      "frame": 45,
+      "timestamp": 4.5,
+      "value": 87.92
+    },
+    {
+      "frame": 46,
+      "timestamp": 4.6000000000000005,
+      "value": 88.28
+    },
+    {
+      "frame": 47,
+      "timestamp": 4.7,
+      "value": 89.06
+    },
+    {
+      "frame": 48,
+      "timestamp": 4.800000000000001,
+      "value": 89.63
+    },
+    {
+      "frame": 49,
+      "timestamp": 4.9,
+      "value": 89.85
+    }
+  ]
+}
