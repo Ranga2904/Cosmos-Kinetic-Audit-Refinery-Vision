@@ -1,7 +1,21 @@
+# CORE STREAMLIT UI
 streamlit
 pandas
 plotly
-torch
-transformers
-opencv-python
+
+# VIDEO-NATIVE BACKENDS (The 'Kinetic' Strength)
+decord
+torchcodec
+qwen-vl-utils
+opencv-python-headless
+
+# MODEL & INFERENCE
+torch>=2.4.0
+transformers>=4.47.0
+accelerate
+bitsandbytes
+sentencepiece
+protobuf
+
+# NUMERICAL VALIDATION
 numpy
