@@ -14,10 +14,10 @@ This map identifies the **Safe Operating Envelope** for the model based on empir
 
 | Asset Node | Physical Mode | Mean Accuracy | Status | Process Engineering Diagnosis |
 | :--- | :--- | :--- | :--- | :--- |
-| **T-505** | Thermal Runaway | **95.28%** | ✅ PASS | **Production-Ready.** Robust temporal gradient resolution. |
-| **S-909** | Fatigue Drift | **70.40%** | 🚨 FAIL | **Boundary Identified.** Kinetic Sensitivity Floor (Sub-1%). |
-| **C-301** | Pressure Surge | **63.99%** | 🚨 FAIL | **Trend-Aware.** Validated for non-critical advisory only. |
-| **L-102** | VOC Leak | **0.00%** | 🚨 FAIL | **Feature Conflation.** Vapor density occluded HUD telemetry. |
+| **T-505** | Thermal Runaway | **95.28%** | Ready for use | **Production-Ready.** Robust temporal gradient resolution. |
+| **S-909** | Fatigue Drift | **70.40%** | Cosmos 2B cannot be used alone - failsafe Operations / Enginering | **Boundary Identified.** Kinetic Sensitivity Floor (Sub-1%). |
+| **C-301** | Pressure Surge | **63.99%** | Cosmos 2B cannot be used alone - failsafe Operations / Enginering  | **Trend-Aware.** Validated for non-critical advisory only. |
+| **L-102** | VOC Leak | **0.00%** | Cosmos 2B cannot be used alone - failsafe Operations / Enginering | **Feature Conflation.** Vapor density occluded HUD telemetry. |
 
 ## 3. The "Sensitivity Floor" & "Feature Conflation" (Engineering Boundaries)
 Unlike "perfect" black-box prototypes, KINETIC-AUDIT identifies the **Probability of Failure on Demand (PFD)** by embracing radical honesty in failure cases.
