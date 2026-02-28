@@ -16,7 +16,7 @@ This map identifies the **Safe Operating Envelope** for the model based on empir
 | :--- | :--- | :--- | :--- | :--- |
 | **T-505** | Thermal Runaway | **95.28%** | Ready for use | **Production-Ready.** Robust temporal gradient resolution. |
 | **S-909** | Fatigue Drift | **70.40%** | Cosmos 2B cannot be used alone - failsafe Operations / Enginering | **Boundary Identified.** Kinetic Sensitivity Floor (Sub-1%). |
-| **C-301** | Pressure Surge | **63.99%** | Cosmos 2B cannot be used alone - failsafe Operations / Enginering  | **Trend-Aware.** Validated for non-critical advisory only. |
+| **C-301** | Pressure Surge | **63.99%** | Use only as guidance  | **Trend-Aware.** Validated for non-critical advisory only. |
 | **L-102** | VOC Leak | **0.00%** | Cosmos 2B cannot be used alone - failsafe Operations / Enginering | **Feature Conflation.** Vapor density occluded HUD telemetry. |
 
 ## 3. The "Sensitivity Floor" & "Feature Conflation" (Engineering Boundaries)
