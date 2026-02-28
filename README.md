@@ -44,7 +44,7 @@ Kinetic-Audit bridges AI reasoning with **Safety Instrumented Systems (SIS)**. T
 * **Edge-Ready (NVIDIA T4):** Optimized via 4-bit quantization and `torchcodec`, ensuring high-throughput inference for refinery-wide scale-out.
 * **Audit Trail:** Every inference is logged in `statistical_validation.json`, providing the immutable audit trail required by insurance and safety regulators.
 
-## 6. Deployment (Judge's Guide)
+## 6. Deployment 
 
 ### Prerequisites
 * NVIDIA GPU (T4/L4/A10 tested)
