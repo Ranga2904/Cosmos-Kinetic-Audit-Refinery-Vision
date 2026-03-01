@@ -52,7 +52,7 @@ Kinetic-Audit bridges AI reasoning with **Safety Instrumented Systems (SIS)**. T
 
 ### Quick Start
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Kinetic-Audit.git](https://github.com/YOUR_USERNAME/Kinetic-Audit.git)
+git clone [https://github.com/Ranga2904/Cosmos-Kinetic-Audit-Refinery-Vision.git]
 cd Kinetic-Audit
 pip install -r requirements.txt
 streamlit run streamlit_app.py
